@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200px" src="assets/alura_logo.png" alt="Logo da Alura" />
+  <img height="100px" src="assets/alura_logo.png" alt="Logo da Alura" />
   <h3 align="center">Imersão Python - Alura</h3>
 </div>
 
@@ -7,7 +7,7 @@
   Este curso oferece uma introdução abrangente à análise de dados com Python, abordando desde a manipulação básica de dados até técnicas avançadas de previsão. O curso explora a análise exploratória com ferramentas como o Google Sheets, Jupyter Notebook, geração de tabelas e gráficos, e manipulação de dados utilizando bibliotecas poderosas do Python. Além disso, aprofunda-se em análises avançadas, como gráficos de velas e previsão de séries temporais de ações. Meu objetivo é dominar esses tópicos para aprimorar minhas habilidades na análise de dados e criar soluções preditivas e visualmente impactantes que agreguem valor ao processo de tomada de decisão.
 
 # 📚Conteúdo Abordado
-  * **Análise Exploratória de Dados:** Introdução à análise de dados utilizando o Google Sheets para explorar, visualizar e compreender grandes volumes de dados. Também abrange o uso das principais funções e fórmulas para cálculos e sumarizações.
+  * **Análise Exploratória com Google Sheets:** Introdução à análise de dados utilizando o Google Sheets para explorar, visualizar e compreender grandes volumes de dados. Também abrange o uso das principais funções e fórmulas para cálculos e sumarizações.
 
   * **Gerando Tabelas e Criando Gráficos:** Criação de tabelas e gráficos para auxiliar na análise de dados e na identificação de tendências e padrões.
 
