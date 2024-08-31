@@ -34,7 +34,7 @@
   - <a href="https://docs.jupyter.org/en/latest/">Jupyter Notebook</a>
 
 ### 📎Curso
-  - <a href="https://www.alura.com.br/imersao-python-curso-gratuito?utm_source=Youtube&utm_medium=Live-de-abertura&utm_campaign=imersao-python">Curso: Imersão Python</a>
+  - <a href="https://www.alura.com.br/imersao-python-curso-gratuito?utm_source=Youtube&utm_medium=Live-de-abertura&utm_campaign=imersao-python">Imersão Python</a>
 
 # 📬Contato
 <div align="center"> 
