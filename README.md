@@ -1,9 +1,9 @@
 <div align="center">
-  <img height="100px" src="assets/alura_logo.png" alt="Logo da Alura" />
+  <img height="100px" src="https://iconsverse.vercel.app/icons?i=alura" alt="Logo da Alura" />
   <h3 align="center">Imersão Python - Alura</h3>
 </div>
 
-# 🎯Objetivo
+# 🔍Visão Geral
   Este curso oferece uma introdução abrangente à análise de dados com Python, abordando desde a manipulação básica de dados até técnicas avançadas de previsão. O curso explora a análise exploratória com ferramentas como o Google Sheets, Jupyter Notebook, geração de tabelas e gráficos, e manipulação de dados utilizando bibliotecas poderosas do Python. Além disso, aprofunda-se em análises avançadas, como gráficos de velas e previsão de séries temporais de ações. Meu objetivo é dominar esses tópicos para aprimorar minhas habilidades na análise de dados e criar soluções preditivas e visualmente impactantes que agreguem valor ao processo de tomada de decisão.
 
 # 📚Conteúdo Abordado
@@ -16,6 +16,11 @@
   * **Análises Avançadas e Gráficos de Velas:** Geração de gráficos avançados para análise de dados, utilizando bibliotecas como Matplotlib e Seaborn. Inclui a criação de gráficos de barras, linhas, dispersão, histogramas e gráficos de velas, com foco na construção de visualizações que facilitem a interpretação de resultados e a tomada de decisões.
 
   * **Previsão de Séries Temporais de Ações:** Introdução aos conceitos e técnicas para previsão de séries temporais, com foco em dados financeiros. Aborda a análise de padrões temporais, decomposição de séries, e a aplicação de modelos estatísticos e de machine learning para previsão de valores futuros.
+
+  <div align="center">
+    <h3> 💻Tecnologias Aprendidas</h3>
+    <img src="https://iconsverse.vercel.app/icons?i=python" alt="Tecnologias Aprendidas">
+  </div>
 
 # 🏅Certificado
 <img src="assets/certificado.jpg" alt="Certificado do Curso">
